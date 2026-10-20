@@ -32,6 +32,13 @@ the authors' method, not a match to the paper's benchmark scores. Start at
 [docs/START-HERE.md](docs/START-HERE.md); the handoff and lessons are in
 [docs/HANDOFF.md](docs/HANDOFF.md); the illustrated learning guide is `docs/learning-guide.pdf`.
 
+## Slides and learning guide
+
+- Advisor deck of 7 October 2026: [slides/research-update.pdf](slides/research-update.pdf)
+  (source and speaker guide in [slides/](slides/README.md)).
+- Illustrated learning guide: [docs/learning-guide.pdf](docs/learning-guide.pdf) (source
+  `docs/learning-guide.tex`).
+
 ## Reproducing
 
 - Hardware: one NVIDIA A100-PCIE-40GB (MIG 7g.40gb).
