@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these reproductions, please cite the original papers (see each folder's README) and this repository."
+title: "RL reproduction exercises: Dr. GRPO (Understanding R1-Zero-Like Training) and CURL"
+authors:
+  - family-names: Towell
+    given-names: Alex
+type: software
+repository-code: "https://github.com/queelius/rl-reproductions"
+date-released: 2026-10-07
+license: MIT
